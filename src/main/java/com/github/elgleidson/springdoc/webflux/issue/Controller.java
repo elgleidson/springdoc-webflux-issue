@@ -1,7 +1,7 @@
 package com.github.elgleidson.springdoc.webflux.issue;
 
 import io.swagger.v3.oas.annotations.Operation;
-import jakarta.validation.Valid;
+import javax.validation.Valid;
 import java.math.BigDecimal;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
